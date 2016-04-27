@@ -1,0 +1,35 @@
+﻿<Window x:Class="Demo18.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="309" VerticalAlignment="Top" Width="510" SelectionChanged="OnSelectionChanged">
+            <TabItem x:Name="TabAdmin" Header="Admin">
+                <Grid x:Name="TadAdmin" Background="#FFE5E5E5" Margin="0,0,0,-5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="34*"/>
+                        <ColumnDefinition Width="467*"/>
+                    </Grid.ColumnDefinitions>
+                    <Label x:Name="lblKonto" Content="Nytt Konto" Grid.Column="1" HorizontalAlignment="Left" Margin="166,42,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" RenderTransformOrigin="0.88,-1.124"/>
+                    <TextBox x:Name="tbxAdminAcoountNr" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="140,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="147" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="lblAdminAccountNr" Content="Kontonummer:" HorizontalAlignment="Left" Margin="10,89,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Grid.ColumnSpan="2"/>
+                    <Button x:Name="btnAdminSaveAccountNr" Content="Spara" Grid.Column="1" HorizontalAlignment="Left" Margin="140,142,0,0" VerticalAlignment="Top" Width="147" FontSize="16" FontWeight="Bold" Click="btnAdminSaveAccountNr_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem x:Name="TabMain" Header="Main">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lblMainBank" Content="Bank" HorizontalAlignment="Left" Margin="198,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.661,0.34" FontSize="26" FontWeight="Bold" Width="86"/>
+                    <ComboBox x:Name="cbxMainAccount" HorizontalAlignment="Left" Margin="177,79,0,0" VerticalAlignment="Top" Width="120" SelectedIndex="0" FontSize="14" FontWeight="Bold"/>
+                    <TextBox x:Name="txbMainDeposit" HorizontalAlignment="Left" Height="23" Margin="177,122,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" FontWeight="Bold"/>
+                    <Label x:Name="lblMainDepisit" Content="Insättning:" HorizontalAlignment="Left" Margin="41,123,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+                    <Label x:Name="lblMainAccount" Content="Konto:" HorizontalAlignment="Left" Margin="41,79,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold" Width="87"/>
+                    <Button x:Name="btnMainSaveDeposit" Content="Spara" HorizontalAlignment="Left" Margin="323,122,0,0" VerticalAlignment="Top" Width="121" FontSize="16" Height="32" Click="btnMainSaveDeposit_Click"/>
+                    <Label x:Name="lblMainBalance" Content="Saldo:" HorizontalAlignment="Left" Margin="41,159,0,0" VerticalAlignment="Top" FontSize="16" FontWeight="Bold"/>
+                    <TextBox x:Name="txbMainBalance" HorizontalAlignment="Left" Height="23" Margin="177,167,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" FontWeight="Bold"/>
+                    <Button x:Name="btnMainSaveUppdate" Content="Uppdatera" HorizontalAlignment="Left" Margin="323,167,0,0" VerticalAlignment="Top" Width="121" FontSize="16" Height="34" Click="btnMainSaveUppdate_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

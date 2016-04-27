@@ -1,0 +1,98 @@
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\bin\Debug\Demo18.exe.config
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\bin\Debug\Demo18.exe
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\bin\Debug\Demo18.pdb
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.csprojResolveAssemblyReference.cache
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\view\MainWindow.baml
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\view\MainWindow.g.cs
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\App.g.cs
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18_MarkupCompile.cache
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.g.resources
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.Properties.Resources.resources
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.csproj.GenerateResource.Cache
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.exe
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.pdb
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\bin\Debug\EntityFramework.dll
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\bin\Debug\EntityFramework.xml
+c:\users\hulkar razm\documents\visual studio 2013\Projects\Demo18\Demo18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hulkar Razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.Migrations.InitialCreate.resources
+C:\Users\Hulkar Razm\documents\visual studio 2013\Projects\Demo18\Demo18\obj\Debug\Demo18.Migrations.Transactions.resources
+C:\Users\Mukta\Desktop\Demo18\Demo18\bin\Debug\Demo18.exe.config
+C:\Users\Mukta\Desktop\Demo18\Demo18\obj\Debug\Demo18.exe
+C:\Users\Mukta\Desktop\Demo18\Demo18\obj\Debug\Demo18.pdb
+C:\Users\Mukta\Desktop\HDemo18\Demo18\bin\Debug\Demo18.exe.config
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.exe
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.pdb
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.csprojResolveAssemblyReference.cache
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\view\MainWindow.baml
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\view\MainWindow.g.cs
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\App.g.cs
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18_MarkupCompile.cache
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.g.resources
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.Migrations.InitialCreate.resources
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.Migrations.Transactions.resources
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.Properties.Resources.resources
+C:\Users\Mukta\Desktop\HDemo18\Demo18\obj\Debug\Demo18.csproj.GenerateResource.Cache
+C:\Users\Mukta\Desktop\HDemo18\Demo18\bin\Debug\Demo18.exe
+C:\Users\Mukta\Desktop\HDemo18\Demo18\bin\Debug\Demo18.pdb
+C:\Users\Mukta\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.dll
+C:\Users\Mukta\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mukta\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.xml
+C:\Users\Mukta\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\bin\Debug\Demo18.exe.config
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.exe
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.pdb
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\bin\Debug\Demo18.exe
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\bin\Debug\Demo18.pdb
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.csprojResolveAssemblyReference.cache
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\view\MainWindow.baml
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\view\MainWindow.g.cs
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\App.g.cs
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18_MarkupCompile.cache
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.g.resources
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.Migrations.InitialCreate.resources
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.Migrations.Transactions.resources
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.Properties.Resources.resources
+C:\Users\Mehedi\Documents\Visual Studio 2015\Projects\Hassan\HDemo18\Demo18\obj\Debug\Demo18.csproj.GenerateResource.Cache
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\bin\Debug\Demo18.exe.config
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.exe
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.pdb
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\bin\Debug\Demo18.exe
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\bin\Debug\Demo18.pdb
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.dll
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.xml
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.csprojResolveAssemblyReference.cache
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\view\MainWindow.baml
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\view\MainWindow.g.cs
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\App.g.cs
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18_MarkupCompile.cache
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.g.resources
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.Migrations.InitialCreate.resources
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.Migrations.Transactions.resources
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.Properties.Resources.resources
+C:\Users\Mehedi\Desktop\HDemo18\Demo18\obj\Debug\Demo18.csproj.GenerateResource.Cache
+D:\forGithub\HDemo18\Demo18\bin\Debug\Demo18.exe.config
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.exe
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.pdb
+D:\forGithub\HDemo18\Demo18\bin\Debug\Demo18.exe
+D:\forGithub\HDemo18\Demo18\bin\Debug\Demo18.pdb
+D:\forGithub\HDemo18\Demo18\bin\Debug\EntityFramework.dll
+D:\forGithub\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.dll
+D:\forGithub\HDemo18\Demo18\bin\Debug\EntityFramework.xml
+D:\forGithub\HDemo18\Demo18\bin\Debug\EntityFramework.SqlServer.xml
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.csprojResolveAssemblyReference.cache
+D:\forGithub\HDemo18\Demo18\obj\Debug\view\MainWindow.baml
+D:\forGithub\HDemo18\Demo18\obj\Debug\view\MainWindow.g.cs
+D:\forGithub\HDemo18\Demo18\obj\Debug\App.g.cs
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18_MarkupCompile.cache
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.g.resources
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.Migrations.InitialCreate.resources
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.Migrations.Transactions.resources
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.Properties.Resources.resources
+D:\forGithub\HDemo18\Demo18\obj\Debug\Demo18.csproj.GenerateResource.Cache
